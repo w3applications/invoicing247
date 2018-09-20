@@ -2530,3 +2530,16 @@ body {
 			}
 
 	}
+
+
+.app-store {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+}
+
+.google-play {
+	position: fixed;
+	top: 50px;
+	left: 0;
+}
