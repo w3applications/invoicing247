@@ -2543,3 +2543,12 @@ body {
 	top: 50px;
 	left: 0;
 }
+
+#policy {
+	background-color: white;
+	padding: 5em;
+}
+
+#policy #section {
+	text-decoration: underline;
+}
